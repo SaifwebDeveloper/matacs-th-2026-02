@@ -27,7 +27,7 @@ The default formulas are:
 - **Warranty (15%):** Panel and workmanship warranty scores contribute equally, capped at 25 and 15 years respectively.
 - **Team and approach (15%):** Four equally weighted checklist items: named project lead, crew, safety plan, and monitoring plan.
 
-The mandatory checks require the bidder's stated Ontario electrical contractor licence, confirmed WSIB clearance and $5 million liability insurance, and a price within the budget ceiling. These rules are applied before ranking.
+The mandatory checks require the bidder's stated Ontario electrical contractor licence and confirmed WSIB clearance and $5 million liability insurance. A price above the $260,000 budget ceiling does not fail a proposal, because price is a weighted criterion; it is flagged for human review instead. These rules are applied before ranking.
 
 ## 3. Human in the Loop
 
